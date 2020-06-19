@@ -1,0 +1,25 @@
+{
+  "name": "vuex-simple-form",
+  "version": "1.0.0",
+  "description": "vuex-simple-form",
+  "author": "Aless Arver",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.1.10",
+    "nuxt": "^2.0.0",
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0",
+    "node-sass": "^4.14.1",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^8.0.2"
+  }
+}
