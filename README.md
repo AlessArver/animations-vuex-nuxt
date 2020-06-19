@@ -2,6 +2,8 @@
 
 > vuex-simple-form
 
+## Link on site: https://alessarver.github.io/vuex-simple-form/
+
 ## Build Setup
 
 ```bash
