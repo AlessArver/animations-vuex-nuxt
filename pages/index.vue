@@ -3,7 +3,7 @@
     <template>
       <div class="login__content">
         <div class="login__text">
-          {{ newText }}
+          {{ newText || "Your name" }}
         </div>
         <form @submit.prevent="setMainFormText" ref="form" class="login__form">
           <div class="field">

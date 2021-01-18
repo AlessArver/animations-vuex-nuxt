@@ -1,6 +1,6 @@
 export default {
   router: {
-    base: "/vuex-simple-form/"
+    base: "/animations-vuex-nuxt/"
   },
   /*
    ** Headers of the page
